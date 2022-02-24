@@ -1,6 +1,7 @@
 body {
   background-color: black;
   text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 h1 {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -25,4 +26,8 @@ h1 {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 21px;
   color: gray
+}
+footer {
+  text-align: right;
+  color: gray;
 }
